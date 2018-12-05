@@ -17,7 +17,7 @@
 Pode sempre haver alguma discussão aqui e ali sobre qual foi a primeira música heavy metal, ou a primeira banda cujo som assim foi descrito. Mas não há dúvida que esta foi a primeira banda cujo trabalho é exclusivamente o que ainda hoje descreveríamos como heavy metal. O vocalista inicialmente e actualmente foi o Ozzy Osbourne. No meio, tiveram como vocalista o Ronnie James Dio, o senhor que popularizou o uso dos corninhos \m/ O guitarrista Tony Iommi, grande inspiração para todos mas em particular um James Hetfield, perdeu as pontas dos dedos num acidente numa fábrica e toca com pontas dos dedos falsas. Com este pedigree, são sem dúvida os pais do heavy metal.
 
 ### Já vi ao vivo?
-&#9989;
+&#x2714;
 
 ### Características do som:
 * Músicas são feitas de riffs: sequências de notas, ou com acordes pouco cheios, e uma "melodia" muito concreta na guitarra; ao invés de progressões de acordes
