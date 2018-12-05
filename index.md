@@ -26,12 +26,12 @@ Pode sempre haver alguma discussão aqui e ali sobre qual foi a primeira música
 
 ### War Pigs (1970)
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=LQUXuQ6Zd9w"><img src="https://img.youtube.com/vi/LQUXuQ6Zd9w/0.jpg" alt="Black Sabbath - War Pigs" target="_blank"></a>
+  <a href="https://www.youtube.com/watch?v=LQUXuQ6Zd9w" target="_blank"><img src="https://img.youtube.com/vi/LQUXuQ6Zd9w/0.jpg" alt="Black Sabbath - War Pigs"></a>
 </div>
 
 ### Into the Void (1971)
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=xx6IwshTL6M"><img src="https://img.youtube.com/vi/xx6IwshTL6M/0.jpg" alt="Black Sabbath - Into the Void" target="_blank"></a>
+  <a href="https://www.youtube.com/watch?v=xx6IwshTL6M" target="_blank"><img src="https://img.youtube.com/vi/xx6IwshTL6M/0.jpg" alt="Black Sabbath - Into the Void"></a>
 </div>
 
 
