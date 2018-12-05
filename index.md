@@ -7,4 +7,6 @@
 <a name="sem1"/>
 ## Black Sabbath
 
-teste
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=LQUXuQ6Zd9w"><img src="https://img.youtube.com/vi/LQUXuQ6Zd9w/0.jpg" alt="Black Sabbath - War Pigs"></a>
+</div>
