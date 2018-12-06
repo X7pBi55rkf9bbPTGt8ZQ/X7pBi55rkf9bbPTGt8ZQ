@@ -7,8 +7,7 @@
 * ... de coisas que eu gosto e ouço. Tudo o que está aqui foram coisas que, em algum período da minha vida, estavam em rotação quase permanente.
 * Dou sempre algum contexto adicional. Acho que todas as bandas que aqui estão têm algo característico que as tornou bem conhecidas, em comparação com o que existia antes. Tentarei realçar isso
 
-### Link Spotify
-https://open.spotify.com/user/luispfonseca/playlist/0FQqrsJ2mVrcG62TL4xst9?si=ooweNdNxT4qPmKcH1t5IeQ
+### [Link Spotify](https://open.spotify.com/user/luispfonseca/playlist/0FQqrsJ2mVrcG62TL4xst9?si=ooweNdNxT4qPmKcH1t5IeQ)
 
 #### Índice
 
