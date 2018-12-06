@@ -2,7 +2,7 @@
 
 ### Regras
 * Uma banda ou sub-género por semana; duas músicas
-* Dentro do possível, ordenados cronologicamente
+* Dentro do possível, ordenadas cronologicamente
 * Objectivo é mostrar a diversidade que há dentro do género...
 * ... de coisas que eu gosto e ouço. Tudo o que está aqui foram coisas que, em algum período da minha vida, estavam em rotação quase permanente.
 * Dou sempre algum contexto adicional. Acho que todas as bandas que aqui estão têm algo característico que as tornou bem conhecidas, em comparação com o que existia antes. Tentarei realçar isso
