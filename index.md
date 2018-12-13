@@ -11,10 +11,47 @@
 
 #### Índice
 
+##### [<small>Semana 2 - New Wave of British Heavy Metal (NWOBHM): Motörhead e Diamond Head</small>](#sem2)  
 ##### [<small>Semana 1 - Black Sabbath</small>](#sem1)  
 
+<a name="sem2"/>
+## Semana 2 - New Wave of British Heavy Metal (NWOBHM): Motörhead e Diamond Head
+Ora bem, hoje vão duas bandas mais ou menos da mesma altura, de quando o heavy metal britânico trouxe uma renovação ao género. Não são bandas que possa dizer que conheça tudo e adore, mas são os pais dos Metallica, e portanto têm de ser referidos aqui. Já vamos saltar muita gente para chegar àquilo que eu ouço, que achei que pelo menos esta paragram era obrigatória.
+
+**Motorhead**
+**Género**: Heavy metal, punk, rock and roll
+
+### Já vi ao vivo?
+❌
+
+### Características do som:
+* Uma mistura de heavy metal com punk. Rápido. Grande influência para o que os Metallica e outros trouxeram. Vais reparar que quando aparecem os Metallica, comparados com os antecessores como Black Sabbath, são muito mais rápidos e punk do que lentos e groovy.
+* Baixo (Lemmy!) com distorsão. O início desta música é um baixo com uma distorsão que parece uma guitarra. Os Metallica também usaram isso em algumas ocasiões e o baixista dos primeiros álbuns era conhecido por isso também.
+
+
+### Ace of Spades (1980)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=pWB5JZRGl0U" target="_blank"><img src="https://img.youtube.com/vi/pWB5JZRGl0U/0.jpg" alt="Motörhead - Ace of Spades"></a>
+</div>
+
+**Diamond Head**
+**Género**: Heavy metal
+
+### Já vi ao vivo?
+❌
+
+### Características do som:
+* Já soa a Metallica. Riffs lentos, riffs rápidos, solos de guitarra, etc. Esta música é uma das covers mais conhecidas que os Metallica fizeram.
+
+### Am I Evil (1980)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=TVid_fLzN5g" target="_blank"><img src="https://img.youtube.com/vi/TVid_fLzN5g/0.jpg" alt="Diamond Head - Am I Evil"></a>
+</div>
+
 <a name="sem1"/>
-## Black Sabbath
+## Semana 1 - Black Sabbath
+
+**Género**: Heavy metal, doom metal
 
 Pode sempre haver alguma discussão aqui e ali sobre qual foi a primeira música heavy metal, ou a primeira banda cujo som assim foi descrito. Mas não há dúvida que esta foi a primeira banda cujo trabalho é exclusivamente o que ainda hoje descreveríamos como heavy metal. O vocalista inicialmente e actualmente foi o Ozzy Osbourne. No meio, tiveram como vocalista o Ronnie James Dio, o senhor que popularizou o uso dos corninhos \m/ O guitarrista Tony Iommi, grande inspiração para todos mas em particular um James Hetfield, perdeu as pontas dos dedos num acidente numa fábrica e toca com pontas dos dedos falsas. Com este pedigree, são sem dúvida os pais do heavy metal.
 
