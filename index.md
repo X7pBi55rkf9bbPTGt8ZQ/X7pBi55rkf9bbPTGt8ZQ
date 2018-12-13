@@ -16,9 +16,11 @@
 
 <a name="sem2"/>
 ## Semana 2 - New Wave of British Heavy Metal (NWOBHM): Motörhead e Diamond Head
+
 Ora bem, hoje vão duas bandas mais ou menos da mesma altura, de quando o heavy metal britânico trouxe uma renovação ao género. Não são bandas que possa dizer que conheça tudo e adore, mas são os pais dos Metallica, e portanto têm de ser referidos aqui. Já vamos saltar muita gente para chegar àquilo que eu ouço, que achei que pelo menos esta paragram era obrigatória.
 
 **Motorhead**
+
 **Género**: Heavy metal, punk, rock and roll
 
 ### Já vi ao vivo?
@@ -35,6 +37,7 @@ Ora bem, hoje vão duas bandas mais ou menos da mesma altura, de quando o heavy 
 </div>
 
 **Diamond Head**
+
 **Género**: Heavy metal
 
 ### Já vi ao vivo?
