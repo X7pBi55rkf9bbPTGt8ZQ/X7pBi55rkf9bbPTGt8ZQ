@@ -19,34 +19,34 @@
 
 Ora bem, hoje vão duas bandas mais ou menos da mesma altura, de quando o heavy metal britânico trouxe uma renovação ao género. Não são bandas que possa dizer que conheça tudo e adore, mas são os pais dos Metallica, e portanto têm de ser referidos aqui. Já vamos saltar muita gente para chegar àquilo que eu ouço, que achei que pelo menos esta paragram era obrigatória.
 
-**Motorhead**
+### Motörhead
 
 **Género**: Heavy metal, punk, rock and roll
 
-### Já vi ao vivo?
+#### Já vi ao vivo?
 ❌
 
-### Características do som:
+#### Características do som:
 * Uma mistura de heavy metal com punk. Rápido. Grande influência para o que os Metallica e outros trouxeram. Vais reparar que quando aparecem os Metallica, comparados com os antecessores como Black Sabbath, são muito mais rápidos e punk do que lentos e groovy.
 * Baixo (Lemmy!) com distorsão. O início desta música é um baixo com uma distorsão que parece uma guitarra. Os Metallica também usaram isso em algumas ocasiões e o baixista dos primeiros álbuns era conhecido por isso também.
 
 
-### Ace of Spades (1980)
+#### Ace of Spades (1980)
 <div align="center">
   <a href="https://www.youtube.com/watch?v=pWB5JZRGl0U" target="_blank"><img src="https://img.youtube.com/vi/pWB5JZRGl0U/0.jpg" alt="Motörhead - Ace of Spades"></a>
 </div>
 
-**Diamond Head**
+### Diamond Head
 
 **Género**: Heavy metal
 
-### Já vi ao vivo?
+#### Já vi ao vivo?
 ❌
 
-### Características do som:
+#### Características do som:
 * Já soa a Metallica. Riffs lentos, riffs rápidos, solos de guitarra, etc. Esta música é uma das covers mais conhecidas que os Metallica fizeram.
 
-### Am I Evil (1980)
+#### Am I Evil (1980)
 <div align="center">
   <a href="https://www.youtube.com/watch?v=TVid_fLzN5g" target="_blank"><img src="https://img.youtube.com/vi/TVid_fLzN5g/0.jpg" alt="Diamond Head - Am I Evil"></a>
 </div>
