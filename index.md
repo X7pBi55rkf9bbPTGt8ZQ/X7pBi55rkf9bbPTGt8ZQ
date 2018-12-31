@@ -11,9 +11,34 @@
 
 #### Índice
 
+##### [<small>Semana 4 - METAAAAALLLLIICAAAAAAAAAA</small>](#sem3)  
 ##### [<small>Semana 3 - Iron Maiden</small>](#sem3)  
 ##### [<small>Semana 2 - New Wave of British Heavy Metal (NWOBHM): Motörhead e Diamond Head</small>](#sem2)  
 ##### [<small>Semana 1 - Black Sabbath</small>](#sem1)  
+
+<a name="sem4"/>
+## Semana 4 - Metallica 
+
+**Género**: Thrash Metal, Heavy Metal
+
+Os deuses.
+
+### Já vi ao vivo?
+&#x2714;&#x2714;&#x2714;&#x2714;&#x2714;&#x2714;&#x2714;&#x2714;&#x2714;
+
+### Características do som:
+* Principal nome do thrash metal: metal como as bandas anteriores (Sabbath, Maiden), mas tocado com uma velocidade e espírito punk, mais como Motörhead.
+* Som fica mais diverso e complexo à medida que a carreira avança
+
+### Master of Puppets (1986)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=xnKhsTXoKCI" target="_blank"><img src="https://img.youtube.com/vi/xnKhsTXoKCI/0.jpg" alt="Metallica - Master of Puppets"></a>
+</div>
+
+### Fade to Black (1984)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=WEQnzs8wl6E" target="_blank"><img src="https://img.youtube.com/vi/WEQnzs8wl6E/0.jpg" alt="Metallica - Fade to Black"></a>
+</div>
 
 <a name="sem3"/>
 ## Semana 3 - Iron Maiden
