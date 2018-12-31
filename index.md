@@ -11,8 +11,33 @@
 
 #### Índice
 
+##### [<small>Semana 3 - Iron Maiden</small>](#sem3)  
 ##### [<small>Semana 2 - New Wave of British Heavy Metal (NWOBHM): Motörhead e Diamond Head</small>](#sem2)  
 ##### [<small>Semana 1 - Black Sabbath</small>](#sem1)  
+
+<a name="sem3"/>
+## Semana 3 - Iron Maiden
+
+**Género**: Heavy metal
+
+Um dos nomes gigantes do heavy metal. Ainda andam por aí.
+
+### Já vi ao vivo?
+&#x2714;
+
+### Características do som:
+* Vocalistas poderosos, capazes de atingir agudos e graves igualmente
+* É muito comum o baixo tocar notas em galope (uma nota mais lenta seguida de duas mais rápidas em cada batida), enquanto as guitarras tocam riffs agudos em harmonia uma com a outra (a tocar uma melodia semelhante, mas não exatamente as mesmas notas); nota na The Trooper
+
+### Hallowed Be Thy Name (1982)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=J51LPlP-s9o" target="_blank"><img src="https://img.youtube.com/vi/J51LPlP-s9o/0.jpg" alt="Iron Maiden - Hallowed Be Thy Name"></a>
+</div>
+
+### The Trooper (1983)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=X4bgXH3sJ2Q" target="_blank"><img src="https://img.youtube.com/vi/X4bgXH3sJ2Q/0.jpg" alt="Iron Maiden - The Trooper"></a>
+</div>
 
 <a name="sem2"/>
 ## Semana 2 - New Wave of British Heavy Metal (NWOBHM): Motörhead e Diamond Head
